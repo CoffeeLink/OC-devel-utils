@@ -3,6 +3,12 @@
 A script for keeping multiple folders up to date with a master folder 
 
 ## Usage
+
+Get the required modules by running
+```bash
+  pip install -r requirements.txt
+ ```
+
 Just run the script.
 ```bash
   python autoCopy.py
